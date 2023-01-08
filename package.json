@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "sass": "^1.56.1",
+    "swiper": "^8.4.5"
+  },
+  "scripts": {
+    "scss": "sass -w assets/scss:assets/css"
+  }
+}
